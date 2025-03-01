@@ -73,14 +73,14 @@
 ❌ Conversations/Friday Night at the Inn/Group 3\
 ❌ Conversations/Friday Night at the Inn/Group 4\
 ❌ Conversations/gameplay_triggered\
-❌ Conversations/General Dialogue\
-❌ Conversations/Group Conversations\
+❌ Conversations/General Dialogue *❗STILL TO BIG❗*\
+❌ Conversations/Group Conversations *❗STILL TO BIG❗*\
 ❌ Conversations/shooting_star\
 ❌ Conversations/signposts\
 ✅ Conversations/start_day_status\
 ❌ Conversations/temporary_gift\
 ❌ Conversations/The Basement\
-❌ Conversations/Threads\
+❌ Conversations/Threads *❗STILL TO BIG❗*\
 ❌ Conversations/Tutorial Dialogue\
 ❌ Cutscenes/cutscene_basement\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_adeline\
@@ -125,7 +125,7 @@
 ❌ Cutscenes/Heart Events/Taliferro\
 ❌ Cutscenes/Heart Events/Terithia\
 ❌ Cutscenes/Heart Events/Valen\
-❌ Cutscenes/Story Events\
+❌ Cutscenes/Story Events *❗STILL TO BIG❗*\
 ❌ festivals\
 ❌ infusions\
 ⚠️ items/fish/ocean\
