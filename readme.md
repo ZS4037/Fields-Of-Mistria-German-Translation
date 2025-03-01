@@ -1,6 +1,6 @@
 ✅ = Already Translated\
 ⚠️ = Working on it\
-❌ = Not Translated yet\
+❌ = Not Translated yet
 
 ✅ Conversations/Activity Dialogue\
 ❌ Conversations/Bank/Adeline\
@@ -272,4 +272,4 @@
 ❌ ui/character_customization\
 ❌ ui/crafting\
 ❌ ui/skill_menu\
-❌ ui/tutorials\
+❌ ui/tutorials
