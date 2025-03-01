@@ -121,7 +121,7 @@
 ❌ Conversations/gameplay_triggered\
 ❌ Conversations/shooting_star\
 ❌ Conversations/signposts\
-❌ Conversations/start_day_status\
+✅ Conversations/start_day_status\
 ❌ Conversations/temporary_gift\
 ❌ Cutscenes/Festival Events/shooting_star\
 ❌ Cutscenes/Festival Events/spring_festival\
@@ -260,14 +260,14 @@
 ❌ ranching/animals/alpaca\
 ❌ ranching/animals/capybara\
 ❌ ranching/animals/chicken\
-❌ ranching/animals/cow\
+✅ ranching/animals/cow\
 ❌ ranching/animals/default\
 ❌ ranching/animals/duck\
 ❌ ranching/animals/horse\
 ❌ ranching/animals/rabbit\
 ❌ ranching/animals/sheep\
 ✅ renown\
-❌ spells\
+✅ spells\
 ✅ stores\
 ❌ ui/character_customization\
 ❌ ui/crafting\
