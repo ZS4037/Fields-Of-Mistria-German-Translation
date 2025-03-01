@@ -241,7 +241,7 @@
 ❌ items/other/ranching\
 ❌ items/other/unreviewed_new_items\
 ❌ letters\
-❌ locations\
+✅ locations\
 ❌ misc\
 ❌ misc_local\
 ❌ museum_wings/archaeology\
@@ -266,9 +266,9 @@
 ❌ ranching/animals/horse\
 ❌ ranching/animals/rabbit\
 ❌ ranching/animals/sheep\
-❌ renown\
+✅ renown\
 ❌ spells\
-❌ stores\
+✅ stores\
 ❌ ui/character_customization\
 ❌ ui/crafting\
 ❌ ui/skill_menu\
