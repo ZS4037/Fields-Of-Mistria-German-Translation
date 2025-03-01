@@ -3,7 +3,7 @@
 ❌ = Not Translated yet
 
 ✅ Conversations/Activity Dialogue\
-❌ Conversations/Bank/Adeline\
+⚠️ Conversations/Bank/Adeline\
 ❌ Conversations/Bank/Balor\
 ❌ Conversations/Bank/Caldarus\
 ❌ Conversations/Bank/Celine\
