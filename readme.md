@@ -23,7 +23,7 @@
 ❌ Conversations/Bank/Louis\
 ❌ Conversations/Bank/Luc\
 ❌ Conversations/Bank/Maple\
-❌ Conversations/Bank/March\
+⚠️ Conversations/Bank/March\
 ❌ Conversations/Bank/Merri\
 ❌ Conversations/Bank/Nora\
 ❌ Conversations/Bank/Olric\
@@ -186,9 +186,9 @@
 ❌ Cutscenes/cutscene_basement\
 ❌ festivals\
 ❌ infusions\
-❌ items/fish/ocean\
-❌ items/fish/pond\
-❌ items/fish/river\
+⚠️ items/fish/ocean\
+⚠️ items/fish/pond\
+⚠️ items/fish/river\
 ❌ items/furniture/basic_chest_set\
 ❌ items/furniture/basic_set\
 ❌ items/furniture/bathroom_furniture_set\
@@ -245,7 +245,7 @@
 ❌ misc\
 ❌ misc_local\
 ❌ museum_wings/archaeology\
-❌ museum_wings/fish\
+⚠️ museum_wings/fish\
 ❌ museum_wings/flora\
 ❌ museum_wings/insect\
 ✅ npcs\
