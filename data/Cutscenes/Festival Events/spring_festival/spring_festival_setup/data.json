@@ -1,0 +1,22 @@
+{
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/1": "What good timing! I was just going to leave you a letter, but I'd much rather tell you in person.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/10": "It's called $Breath of Spring$, and you can only find them here in Mistria! We traditionally use them to decorate the festival grounds.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/11": "So the more that you $collect$, the better the festival will be! There are even special prizes for the person who gathers the most.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/12": "I could give you some tips on finding them, if you like.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/12/prompts/0": "Please teach me!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/12/prompts/1": "Don't worry, I got it!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/13": "Oh good!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/14": "I'll stop by the morning of the festival to collect any $Breath of Spring$ you have.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/15": "Let's make this year's $Spring Festival$ the best one yet!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/2": "We're holding Mistria's $Spring Festival$ in the town square this $Wednesday$!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/3": "The whole town gets decorated with flowers, and there will be special booths selling all kinds of things to celebrate Spring!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/4": "Ryis and Landen are making new booths, March will be juggling, and everyone is gathering flowers!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/5": "I don't suppose... you'd like to help?",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/5/prompts/0": "Of course, neighbor!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/5/prompts/1": "Anything for you, Celine.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/6": "Oh, I'm so glad!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/7": "O-oh!",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/8": "I'm... I'm happy to hear that.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/9": "We celebrate the Spring Festival around this time every year, coinciding with the blooming of a special type of flower.",
+    "Cutscenes/Festival Events/spring_festival/spring_festival_setup/init": "Oh, [Ari]!"
+}
