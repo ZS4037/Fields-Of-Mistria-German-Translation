@@ -248,7 +248,7 @@
 ❌ museum_wings/fish\
 ❌ museum_wings/flora\
 ❌ museum_wings/insect\
-❌ npcs\
+✅ npcs\
 ❌ object_prototypes\
 ❌ perks\
 ❌ player_assets\
