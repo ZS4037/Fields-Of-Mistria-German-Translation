@@ -68,7 +68,10 @@
 ❌ Conversations/fetch_quests\
 ❌ Conversations/flavor_text\
 ❌ Conversations/floor_10\
-❌ Conversations/Friday Night at the Inn\
+❌ Conversations/Friday Night at the Inn/Group 1\
+❌ Conversations/Friday Night at the Inn/Group 2\
+❌ Conversations/Friday Night at the Inn/Group 3\
+❌ Conversations/Friday Night at the Inn/Group 4\
 ❌ Conversations/gameplay_triggered\
 ❌ Conversations/General Dialogue\
 ❌ Conversations/Group Conversations\
