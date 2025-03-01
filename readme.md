@@ -101,7 +101,27 @@
 ❌ Cutscenes/Festival Events/spring_festival/spring_festival_setup\
 ❌ Cutscenes/Festival Events/spring_festival/spring_festival_third_place\
 ❌ Cutscenes/Festival Events/spring_festival\
-❌ Cutscenes/Heart Events\
+❌ Cutscenes/Heart Events/Adeline\
+❌ Cutscenes/Heart Events/Balor\
+❌ Cutscenes/Heart Events/Celine\
+❌ Cutscenes/Heart Events/Darcy\
+❌ Cutscenes/Heart Events/Eiland\
+❌ Cutscenes/Heart Events/Elsie\
+❌ Cutscenes/Heart Events/Errol\
+❌ Cutscenes/Heart Events/Hayden\
+❌ Cutscenes/Heart Events/Hemlock\
+❌ Cutscenes/Heart Events/Josephine\
+❌ Cutscenes/Heart Events/Juniper\
+❌ Cutscenes/Heart Events/Luc\
+❌ Cutscenes/Heart Events/March\
+❌ Cutscenes/Heart Events/Nora\
+❌ Cutscenes/Heart Events/Olric\
+❌ Cutscenes/Heart Events/Reina\
+❌ Cutscenes/Heart Events/Ryis\
+❌ Cutscenes/Heart Events/Stillwell\
+❌ Cutscenes/Heart Events/Taliferro\
+❌ Cutscenes/Heart Events/Terithia\
+❌ Cutscenes/Heart Events/Valen\
 ❌ Cutscenes/Story Events\
 ❌ festivals\
 ❌ infusions\
