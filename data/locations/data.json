@@ -4,17 +4,17 @@
     "locations/blacksmith_store/name": "Schmiedewerkstatt",
     "locations/celines_room/name": "Celine's Hütte",
     "locations/clinic_f1/name": "Klinik",
-    "locations/deep_woods/name": "Die tiefen Wälder",
+    "locations/deep_woods/name": "Der Tiefwald",
     "locations/default/name": "MISSING NAME",
     "locations/earth_seal/name": "Das Erdsiegel",
-    "locations/eastern_road/name": "Die östliche Straße",
+    "locations/eastern_road/name": "Ostweg",
     "locations/errols_bedroom/name": "Errol's Hütte",
     "locations/fire_seal/name": "Das Feuersiegel",
     "locations/general_store_store/name": "Gemischtwarenladen",
     "locations/haydens_farm/name": "Süßwasser Farm",
     "locations/haydens_house/name": "Hayden's Laden",
     "locations/inn/name": "Das Gasthaus",
-    "locations/landens_house_f1/name": "Schreinerei",
+    "locations/landens_house_f1/name": "Schreinerladen",
     "locations/manor_house_entry/name": "Herrenhaus",
     "locations/mill/name": "Die Mühle",
     "locations/mines_entry/name": "Mineneingang",
@@ -28,5 +28,5 @@
     "locations/terithias_house/name": "Angelladen",
     "locations/town/name": "Mistria",
     "locations/water_seal/name": "Das Wassersiegel",
-    "locations/western_ruins/name": "Die westlischen Ruinen"
+    "locations/western_ruins/name": "Westruinen"
 }

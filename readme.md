@@ -15,7 +15,7 @@
 ❌ Conversations/Bank/Errol\
 ❌ Conversations/Bank/Hayden\
 ❌ Conversations/Bank/Hemlock\
-❌ Conversations/Bank/Henrietta\
+✅ Conversations/Bank/Henrietta\
 ❌ Conversations/Bank/Holt\
 ❌ Conversations/Bank/Josephine\
 ❌ Conversations/Bank/Juniper\
@@ -50,7 +50,7 @@
 ❌ Conversations/Festival Lines/Group Conversations\
 ❌ Conversations/Festival Lines/Hayden\
 ❌ Conversations/Festival Lines/Hemlock\
-❌ Conversations/Festival Lines/Henrietta\
+✅ Conversations/Festival Lines/Henrietta\
 ❌ Conversations/Festival Lines/Holt\
 ❌ Conversations/Festival Lines/Josephine\
 ❌ Conversations/Festival Lines/Juniper\
@@ -76,7 +76,7 @@
 ❌ Conversations/General Dialogue *❗STILL TO BIG❗*\
 ❌ Conversations/Group Conversations *❗STILL TO BIG❗*\
 ❌ Conversations/shooting_star\
-❌ Conversations/signposts\
+⚠️ Conversations/signposts\
 ✅ Conversations/start_day_status\
 ❌ Conversations/temporary_gift\
 ❌ Conversations/The Basement\
