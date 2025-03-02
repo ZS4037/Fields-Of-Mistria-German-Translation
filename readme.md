@@ -73,14 +73,28 @@
 ❌ Conversations/Friday Night at the Inn/Group 3\
 ❌ Conversations/Friday Night at the Inn/Group 4\
 ❌ Conversations/gameplay_triggered\
-❌ Conversations/General Dialogue *❗STILL TO BIG❗*\
+❌ Conversations/General Dialogue/beach\
+❌ Conversations/General Dialogue/birthday_anticipation\
+❌ Conversations/General Dialogue/season_transition\
+❌ Conversations/General Dialogue/time_of_day\
+❌ Conversations/General Dialogue/travel\
 ❌ Conversations/Group Conversations *❗STILL TO BIG❗*\
 ❌ Conversations/shooting_star\
 ⚠️ Conversations/signposts\
 ✅ Conversations/start_day_status\
 ❌ Conversations/temporary_gift\
 ❌ Conversations/The Basement\
-❌ Conversations/Threads *❗STILL TO BIG❗*\
+❌ Conversations/Threads/Adeline\
+❌ Conversations/Threads/Balor\
+❌ Conversations/Threads/Celine\
+❌ Conversations/Threads/Eiland\
+❌ Conversations/Threads/Hayden\
+❌ Conversations/Threads/Juniper\
+❌ Conversations/Threads/Luc\
+❌ Conversations/Threads/Olric\
+❌ Conversations/Threads/Reina\
+❌ Conversations/Threads/Ryis\
+❌ Conversations/Threads/Valen\
 ❌ Conversations/Tutorial Dialogue\
 ❌ Cutscenes/cutscene_basement\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_adeline\
@@ -125,7 +139,25 @@
 ❌ Cutscenes/Heart Events/Taliferro\
 ❌ Cutscenes/Heart Events/Terithia\
 ❌ Cutscenes/Heart Events/Valen\
-❌ Cutscenes/Story Events *❗STILL TO BIG❗*\
+❌ Cutscenes/Story Events/adeline_quest_board\
+❌ Cutscenes/Story Events/cop_some_ore\
+❌ Cutscenes/Story Events/crafting_tutorial\
+❌ Cutscenes/Story Events/day_zero\
+❌ Cutscenes/Story Events/do_a_bro_a_favor\
+❌ Cutscenes/Story Events/dying\
+❌ Cutscenes/Story Events/farm_introduction\
+❌ Cutscenes/Story Events/find_the_weathervane\
+❌ Cutscenes/Story Events/full_restore\
+❌ Cutscenes/Story Events/jos_cooking_class\
+❌ Cutscenes/Story Events/Mines\
+❌ Cutscenes/Story Events/museum_donation_wanted\
+❌ Cutscenes/Story Events/prologue\
+❌ Cutscenes/Story Events/somethings_bugging_me\
+❌ Cutscenes/Story Events/stinky_stamina_potion\
+❌ Cutscenes/Story Events/tea_with_hayden\
+❌ Cutscenes/Story Events/the_unusual_tree_pt_1\
+❌ Cutscenes/Story Events/the_unusual_tree_pt_2\
+❌ Cutscenes/Story Events/Town Repair\
 ❌ festivals\
 ❌ infusions\
 ⚠️ items/fish/ocean\
