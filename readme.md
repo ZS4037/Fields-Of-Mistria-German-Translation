@@ -149,7 +149,7 @@
 ❌ Cutscenes/Story Events/find_the_weathervane\
 ❌ Cutscenes/Story Events/full_restore\
 ❌ Cutscenes/Story Events/jos_cooking_class\
-❌ Cutscenes/Story Events/Mines\
+❌ Cutscenes/Story Events/Mines *❗STILL TO BIG❗*\
 ❌ Cutscenes/Story Events/museum_donation_wanted\
 ✅ Cutscenes/Story Events/prologue\
 ❌ Cutscenes/Story Events/somethings_bugging_me\
@@ -158,7 +158,7 @@
 ❌ Cutscenes/Story Events/the_unusual_tree_pt_1\
 ❌ Cutscenes/Story Events/the_unusual_tree_pt_2\
 ❌ Cutscenes/Story Events/Town Repair\
-❌ festivals\
+✅ festivals\
 ❌ infusions\
 ⚠️ items/fish/misc\
 ⚠️ items/fish/ocean\
