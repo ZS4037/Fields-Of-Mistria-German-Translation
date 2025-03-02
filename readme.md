@@ -82,8 +82,8 @@
 ❌ Conversations/shooting_star\
 ✅ Conversations/signposts\
 ✅ Conversations/start_day_status\
-❌ Conversations/temporary_gift\
-❌ Conversations/The Basement\
+✅ Conversations/temporary_gift_lines\
+✅ Conversations/The Basement\
 ❌ Conversations/Threads/Adeline\
 ❌ Conversations/Threads/Balor\
 ❌ Conversations/Threads/Celine\
@@ -96,7 +96,7 @@
 ❌ Conversations/Threads/Ryis\
 ❌ Conversations/Threads/Valen\
 ❌ Conversations/Tutorial Dialogue\
-❌ Cutscenes/cutscene_basement\
+✅ Cutscenes/cutscene_basement\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_adeline\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_balor\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_blocked\
