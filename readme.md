@@ -144,7 +144,7 @@
 ❌ Cutscenes/Story Events/crafting_tutorial\
 ❌ Cutscenes/Story Events/day_zero\
 ❌ Cutscenes/Story Events/do_a_bro_a_favor\
-❌ Cutscenes/Story Events/dying\
+✅ Cutscenes/Story Events/dying\
 ❌ Cutscenes/Story Events/farm_introduction\
 ❌ Cutscenes/Story Events/find_the_weathervane\
 ❌ Cutscenes/Story Events/full_restore\
@@ -208,7 +208,7 @@
 ❌ items/other/bugs\
 ❌ items/other/cooked_dishes\
 ❌ items/other/crops_and_forage\
-❌ items/other/festivals\
+✅ items/other/festivals\
 ❌ items/other/materials\
 ❌ items/other/mill\
 ❌ items/other/misc\
