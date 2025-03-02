@@ -1,7 +1,7 @@
 {
     "spells/default/description": "<n/a>",
     "spells/default/name": "<n/a>",
-    "spells/full_restore/description": "Stellt die gesamte Ausdauer und Gesundheit wieder her.",
+    "spells/full_restore/description": "Stellt die gesamte Ausdauer und LP wieder her.",
     "spells/full_restore/name": "Vollständige Heilung",
     "spells/full_restore/type": "Heilung",
     "spells/growth/description": "Lässt die Pflanzen in einem 3x3-Bereich vollständig wachsen. Er kann auch das Wachstum von Bäumen um 1 Stufe beschleunigen",

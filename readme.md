@@ -159,7 +159,7 @@
 ❌ Cutscenes/Story Events/the_unusual_tree_pt_2\
 ❌ Cutscenes/Story Events/Town Repair\
 ✅ festivals\
-❌ infusions\
+✅ infusions\
 ⚠️ items/fish/misc\
 ⚠️ items/fish/ocean\
 ⚠️ items/fish/pond\
@@ -224,7 +224,7 @@
 ❌ museum_wings/flora\
 ❌ museum_wings/insect\
 ✅ npcs\
-❌ object_prototypes\
+✅ object_prototypes\
 ❌ perks\
 ❌ player_assets\
 ❌ quests/crown_quests\
