@@ -1,3 +1,10 @@
+# **Translators**
+counterlight\
+deulo\
+joan.noneya\
+truezs
+
+# **Checklist**
 ✅ = Already Translated\
 ⚠️ = Working on it\
 ❌ = Not Translated yet
