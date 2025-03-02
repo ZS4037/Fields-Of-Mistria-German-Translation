@@ -234,11 +234,11 @@
 ❌ quests/story_quests\
 ❌ ranching/animals/alpaca\
 ❌ ranching/animals/capybara\
-❌ ranching/animals/chicken\
+✅ ranching/animals/chicken\
 ✅ ranching/animals/cow\
 ✅ ranching/animals/default\
 ❌ ranching/animals/duck\
-❌ ranching/animals/horse\
+✅ ranching/animals/horse\
 ❌ ranching/animals/rabbit\
 ❌ ranching/animals/sheep\
 ✅ renown\
