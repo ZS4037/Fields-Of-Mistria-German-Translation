@@ -201,7 +201,7 @@
 ❌ items/mines/ruins\
 ❌ items/mines/tide_caverns\
 ❌ items/mines/upper_mines\
-❌ items/other/armor\
+✅ items/other/armor\
 ❌ items/other/artifacts\
 ❌ items/other/blacksmithing\
 ❌ items/other/bugs\
