@@ -57,7 +57,7 @@
 ❌ Conversations/Festival Lines/Landen\
 ❌ Conversations/Festival Lines/Luc\
 ❌ Conversations/Festival Lines/Maple\
-⚠️ Conversations/Festival Lines/March\
+✅ Conversations/Festival Lines/March\
 ❌ Conversations/Festival Lines/Multi-Use\
 ❌ Conversations/Festival Lines/Nora\
 ❌ Conversations/Festival Lines/Olric\
@@ -104,7 +104,7 @@
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_eiland\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_hayden\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_juniper\
-⚠️ Cutscenes/Festival Events/shooting_star/shooting_star_march\
+✅ Cutscenes/Festival Events/shooting_star/shooting_star_march\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_morning\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_reina\
 ❌ Cutscenes/Festival Events/shooting_star/shooting_star_ryis\
