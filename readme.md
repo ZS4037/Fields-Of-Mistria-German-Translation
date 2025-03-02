@@ -1,7 +1,7 @@
 # **Translators**
 counterlight\
 deulo\
-joan.noneya\
+moonchildjoan\
 truezs
 
 # **Checklist**
