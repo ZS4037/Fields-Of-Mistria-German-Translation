@@ -30,7 +30,7 @@ truezs
 ❌ Conversations/Bank/Louis\
 ❌ Conversations/Bank/Luc\
 ❌ Conversations/Bank/Maple\
-⚠️ Conversations/Bank/March\
+✅ Conversations/Bank/March\
 ❌ Conversations/Bank/Merri\
 ❌ Conversations/Bank/Nora\
 ❌ Conversations/Bank/Olric\
@@ -86,7 +86,7 @@ truezs
 ❌ Conversations/General Dialogue/time_of_day\
 ❌ Conversations/General Dialogue/travel\
 ❌ Conversations/Group Conversations *❗STILL TO BIG❗*\
-❌ Conversations/shooting_star\
+⚠️ Conversations/shooting_star\
 ✅ Conversations/signposts\
 ✅ Conversations/start_day_status\
 ✅ Conversations/temporary_gift_lines\
