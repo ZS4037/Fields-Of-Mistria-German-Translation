@@ -80,7 +80,7 @@
 ❌ Conversations/General Dialogue/travel\
 ❌ Conversations/Group Conversations *❗STILL TO BIG❗*\
 ❌ Conversations/shooting_star\
-⚠️ Conversations/signposts\
+✅ Conversations/signposts\
 ✅ Conversations/start_day_status\
 ❌ Conversations/temporary_gift\
 ❌ Conversations/The Basement\
