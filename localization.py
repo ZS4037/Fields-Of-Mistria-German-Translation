@@ -2,7 +2,10 @@ import os
 import json
 
 def main():
-    localization = {"eng": {}}
+    with open("localization.json", "r", encoding="utf-8") as f:
+        jpn_backup = json.load(f).get("jpn", {})
+
+    localization = {"eng": {}, "jpn": {}}
     data_files = []
 
     for root, _, files in os.walk("data"):
@@ -15,6 +18,8 @@ def main():
         with open(data_file, "r", encoding="utf-8") as f:
             data = json.load(f)
             localization["eng"].update(data)
+
+    localization["jpn"].update(jpn_backup)
 
     with open("localization.json", "w", encoding="utf-8") as f:
         json.dump(localization, f, indent=4, ensure_ascii=False)

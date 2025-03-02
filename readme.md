@@ -160,6 +160,7 @@
 ❌ Cutscenes/Story Events/Town Repair\
 ❌ festivals\
 ❌ infusions\
+⚠️ items/fish/misc\
 ⚠️ items/fish/ocean\
 ⚠️ items/fish/pond\
 ⚠️ items/fish/river\
