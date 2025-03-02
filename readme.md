@@ -151,7 +151,7 @@
 ❌ Cutscenes/Story Events/jos_cooking_class\
 ❌ Cutscenes/Story Events/Mines\
 ❌ Cutscenes/Story Events/museum_donation_wanted\
-❌ Cutscenes/Story Events/prologue\
+✅ Cutscenes/Story Events/prologue\
 ❌ Cutscenes/Story Events/somethings_bugging_me\
 ❌ Cutscenes/Story Events/stinky_stamina_potion\
 ❌ Cutscenes/Story Events/tea_with_hayden\
@@ -235,7 +235,7 @@
 ❌ ranching/animals/capybara\
 ❌ ranching/animals/chicken\
 ✅ ranching/animals/cow\
-❌ ranching/animals/default\
+✅ ranching/animals/default\
 ❌ ranching/animals/duck\
 ❌ ranching/animals/horse\
 ❌ ranching/animals/rabbit\
