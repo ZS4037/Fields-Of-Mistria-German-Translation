@@ -229,7 +229,7 @@ truezs
 ❌ museum_wings/archaeology\
 ✅ museum_wings/fish\
 ❌ museum_wings/flora\
-❌ museum_wings/insect\
+✅ museum_wings/insect\
 ✅ npcs\
 ✅ object_prototypes\
 ❌ perks\
