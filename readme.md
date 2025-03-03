@@ -4,6 +4,9 @@ deulo\
 moonchildjoan\
 truezs
 
+# **Installation**
+Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Installer)
+
 # **Checklist**
 ✅ = Already Translated\
 ⚠️ = Working on it\

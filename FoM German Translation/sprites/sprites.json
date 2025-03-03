@@ -1,0 +1,30 @@
+{
+    "spr_ui_hud_font_calendar_weekdays_english": {
+        "Location": "images/calendar",
+        "IsAnimated": true
+    },
+    "spr_ui_endoftheday_calendar_weekdays_en": {
+        "Location": "images/weekdays",
+        "IsAnimated": true
+    },
+    "spr_ui_hud_season_name_baked_text_english": {
+        "Location": "images/seasons",
+        "IsAnimated": true
+    },
+    "spr_ui_hud_calendar_baked_text_english_spring": {
+        "Location": "images/spring",
+        "IsAnimated": true
+    },
+    "spr_ui_hud_calendar_baked_text_english_summer": {
+        "Location": "images/summer",
+        "IsAnimated": true
+    },
+    "spr_ui_hud_calendar_baked_text_english_fall": {
+        "Location": "images/fall",
+        "IsAnimated": true
+    },
+    "spr_ui_hud_calendar_baked_text_english_winter": {
+        "Location": "images/winter",
+        "IsAnimated": true
+    }
+}
