@@ -227,8 +227,8 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ❌ items/other/unreviewed_new_items\
 ❌ letters\
 ✅ locations\
-❌ misc\
-❌ misc_local\
+✅ misc\
+⚠️ misc_local\
 ❌ museum_wings/archaeology\
 ✅ museum_wings/fish\
 ❌ museum_wings/flora\
