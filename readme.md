@@ -89,7 +89,7 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ❌ Conversations/General Dialogue/time_of_day\
 ❌ Conversations/General Dialogue/travel\
 ❌ Conversations/Group Conversations *❗STILL TO BIG❗*\
-⚠️ Conversations/shooting_star\
+✅ Conversations/shooting_star\
 ✅ Conversations/signposts\
 ✅ Conversations/start_day_status\
 ✅ Conversations/temporary_gift_lines\
