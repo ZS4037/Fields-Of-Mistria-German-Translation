@@ -36,7 +36,7 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ✅ Conversations/Bank/March\
 ❌ Conversations/Bank/Merri\
 ❌ Conversations/Bank/Nora\
-❌ Conversations/Bank/Olric\
+⚠️ Conversations/Bank/Olric\
 ❌ Conversations/Bank/Reina\
 ❌ Conversations/Bank/Ryis\
 ❌ Conversations/Bank/Seridia\
@@ -83,7 +83,7 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ❌ Conversations/Friday Night at the Inn/Group 3\
 ❌ Conversations/Friday Night at the Inn/Group 4\
 ❌ Conversations/gameplay_triggered\
-❌ Conversations/General Dialogue/beach\
+⚠️ Conversations/General Dialogue/beach\
 ❌ Conversations/General Dialogue/birthday_anticipation\
 ❌ Conversations/General Dialogue/season_transition\
 ❌ Conversations/General Dialogue/time_of_day\
@@ -140,7 +140,7 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ❌ Cutscenes/Heart Events/Josephine\
 ❌ Cutscenes/Heart Events/Juniper\
 ❌ Cutscenes/Heart Events/Luc\
-❌ Cutscenes/Heart Events/March\
+✅ Cutscenes/Heart Events/March\
 ❌ Cutscenes/Heart Events/Nora\
 ❌ Cutscenes/Heart Events/Olric\
 ❌ Cutscenes/Heart Events/Reina\
@@ -237,8 +237,8 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ✅ object_prototypes\
 ❌ perks\
 ❌ player_assets\
-❌ quests/crown_quests\
-❌ quests/crown_registry\
+✅ quests/crown_quests\
+✅ quests/crown_registry\
 ❌ quests/fetch_quests\
 ❌ quests/heart_quests\
 ❌ quests/story_quests\
