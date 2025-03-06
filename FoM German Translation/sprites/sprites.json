@@ -26,5 +26,8 @@
     "spr_ui_hud_calendar_baked_text_english_winter": {
         "Location": "images/winter",
         "IsAnimated": true
+    },
+    "spr_loading_bird_english": {
+        "Location": "images/loading/loading.png"
     }
 }
