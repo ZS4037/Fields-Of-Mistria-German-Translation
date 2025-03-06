@@ -13,7 +13,7 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ❌ = Not Translated yet
 
 ✅ Conversations/Activity Dialogue\
-⚠️ Conversations/Bank/Adeline\
+❌ Conversations/Bank/Adeline\
 ❌ Conversations/Bank/Balor\
 ❌ Conversations/Bank/Caldarus\
 ❌ Conversations/Bank/Celine\
@@ -407,7 +407,7 @@ Use Mods of Mistria to install (https://github.com/Garethp/Mods-of-Mistria-Insta
 ❌ items/other/unreviewed_new_items\
 ❌ letters\
 ✅ locations\
-✅ misc\
+❌ misc\
 ⚠️ misc_local\
 ❌ museum_wings/archaeology\
 ✅ museum_wings/fish\
