@@ -4,7 +4,7 @@
     "spells/full_restore/description": "Stellt die gesamte Ausdauer und LP wieder her.",
     "spells/full_restore/name": "Heilen",
     "spells/full_restore/type": "Heilung",
-    "spells/growth/description": "Lässt die Pflanzen in einem 3x3-Bereich vollständig wachsen. Kann auch das Wachstum von Bäumen um 1 Stufe beschleunigen",
+    "spells/growth/description": "Lässt die Pflanzen in einem 3x3-Bereich vollständig wachsen. Kann auch das Wachstum von Bäumen um eine Stufe beschleunigen",
     "spells/growth/name": "Wachsen",
     "spells/growth/type": "Landwirtschaft",
     "spells/summon_rain/description": "Beschwört einen kurzen Regensturm herauf, der alle Pflanzen bewässert.",
